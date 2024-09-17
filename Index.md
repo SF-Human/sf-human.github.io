@@ -6,7 +6,7 @@
 
 交流中心：364111911（进群请仔细说明来意）
 
-目前企划：[中文电脑学习机 Wiki](https://github.com/Target620/ZWDNXXJ-Wiki/wiki)
+目前企划：[中文电脑学习机 Wiki](https://github.com/Target620/ZWDNXXJ-Wiki/wiki)、深空星尘工作室
 
 [BiliBili UID 673421528](http://space.bilibili.com/673421528)
 
