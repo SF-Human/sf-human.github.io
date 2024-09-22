@@ -11,3 +11,5 @@
 [BiliBili UID 673421528](http://space.bilibili.com/673421528)
 
 [Target620.ys168.com](http://target620.ys168.com)
+
+友情链接：[TV768工作室](https://tv768.xyz) [不息传播](https://buxicim.github.io/) [VDS](http://vds.pub) [FC图库](http://fcpic.nesbbs.com/) [ZMG之江纪录](https://zmtv.cztv.com/cmsh5-share/prod/cztv-tvLive/index.html?pageId=112) [个人推荐收藏夹](https://www.bilibili.com/medialist/detail/ml2431444428?type=1&spm_id_from=333.999.0.0)
