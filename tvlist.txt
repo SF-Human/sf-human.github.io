@@ -36,6 +36,7 @@ GRTN纪录片,https://tplaylive.grtn.cn/live/jilupian.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 书画频道,http://211.103.180.178:8233/live_hls/hdmi.m3u8
+绿色林都,https://liveplaysr.dbw.cn:443/lsdream/6i4bn74/2000/live.m3u8
 中华特产,http://218.86.143.87:9527/udp/238.255.3.106:5999#http://183.215.116.134:6610/180000001001/00000001000000000050000000448845/main.m3u8?IASHttpSessionId=OTT&
 环球旅游,http://183.215.116.134:6610/180000001001/00000001000000000064000000308870/main.m3u8?IASHttpSessionId=OTT&
 安徽人物,http://110.157.220.240:8088/udp/238.125.5.109:5140
