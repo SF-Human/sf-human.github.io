@@ -5,30 +5,34 @@
 CCTV-9纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 
-纪实卫视,#genre#
+纪录频道,#genre#
 北京纪实科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 上海纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 湖南金鹰纪实,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
+浙江之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+南京文旅纪录,http://live.nbs.cn/channels/njtv/wljl/nbs24.m3u8
 
-团长推荐,#genre#
+珠三角频道,#genre#
 惠州综合,http://b.ds2.hztvmg.com/AppName/StreamName.m3u8
 惠州公共,http://113.76.151.23:4022/udp/239.77.1.233:5146
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 深圳移动,http://113.76.151.23:4022/udp/239.77.1.175:5146
-深圳众创TV,http://113.76.151.23:4022/udp/239.77.1.247:5146
+深圳众创TV,http://zhfw-t.szlg.com:8080/live/television2.m3u8#http://113.76.151.23:4022/udp/239.77.1.247:5146
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 
-地方频道,#genre#
-GRTN纪录片,https://tplaylive.grtn.cn/live/jilupian.m3u8
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-云南导视,https://www.ynbit.com:1937/cyds-mlyn/livestream/chunklist_w1032454991.m3u8
+教育频道,#genre#
+全国党员教育,https://12371wbndali.v.myalicdn.com:443/12371wbnd/dangyuanwang_2hd.m3u8
+中学生,http://60.255.240.247:8090/live/zxs_4000.m3u8
 昆明教育,http://ynxsj.7766.org:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 郑州教育,https://livezzutv.chinamcache.com/zb02/zb02.m3u8?auth_key=1694413413-0-0-fdccf5824fa42b4a2e285f73e7d2d12b
-南京文旅纪录,http://live.nbs.cn/channels/njtv/wljl/nbs24.m3u8
+
+地方频道,#genre#
+云南导视,https://www.ynbit.com:1937/cyds-mlyn/livestream/chunklist_w1032454991.m3u8
 郑州铁路,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
 淮北矿业,http://xcblive.hbcoal.com/3/sd/live.m3u8
 宁安综合,https://rmplive.hljtv.com/live/ningan.m3u8
+依兰综合,https://rmplive.hljtv.com/live/yilan.m3u8
 人民铁道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
 
 数字付费,#genre#
@@ -40,8 +44,9 @@ GRTN纪录片,https://tplaylive.grtn.cn/live/jilupian.m3u8
 绿色林都,https://liveplaysr.dbw.cn:443/lsdream/6i4bn74/2000/live.m3u8
 中华特产,http://218.86.143.87:9527/udp/238.255.3.106:5999#http://183.215.116.134:6610/180000001001/00000001000000000050000000448845/main.m3u8?IASHttpSessionId=OTT&
 环球旅游,http://183.215.116.134:6610/180000001001/00000001000000000064000000308870/main.m3u8?IASHttpSessionId=OTT&
-安徽人物,http://110.157.220.240:8088/udp/238.125.5.109:5140
+人物频道,http://110.157.220.240:8088/udp/238.125.5.109:5140
 中华美食,http://106.116.2.146:8890/udp/239.254.201.189:7171#http://180.212.166.214:4022/udp/239.5.1.53:5000
+百姓健康,https://play-hsbj.vzan.com:443/2146882248/645899275683339739/live.m3u8
 
 网络频道,#genre#
 不息传播,http://allinone.netsite.cc/bilibili/24290456
