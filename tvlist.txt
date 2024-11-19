@@ -25,10 +25,11 @@ GRTN纪录片,https://tplaylive.grtn.cn/live/jilupian.m3u8
 云南导视,https://www.ynbit.com:1937/cyds-mlyn/livestream/chunklist_w1032454991.m3u8
 昆明教育,http://ynxsj.7766.org:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 郑州教育,https://livezzutv.chinamcache.com/zb02/zb02.m3u8?auth_key=1694413413-0-0-fdccf5824fa42b4a2e285f73e7d2d12b
-南京纪录,http://live.nbs.cn/channels/njtv/wljl/nbs24.m3u8
-余杭未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+南京文旅纪录,http://live.nbs.cn/channels/njtv/wljl/nbs24.m3u8
+郑州铁路,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
 淮北矿业,http://xcblive.hbcoal.com/3/sd/live.m3u8
 宁安综合,https://rmplive.hljtv.com/live/ningan.m3u8
+人民铁道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
 
 数字付费,#genre#
 江西陶瓷,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8#http://180.212.166.214:4022/udp/239.5.1.45:5000#http://www.weihuaz.icu:8888/udp/239.252.220.243:5140
