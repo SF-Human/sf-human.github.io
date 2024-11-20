@@ -41,19 +41,19 @@ G导视,http://1b6467f415.iok.la:9931/tsfile/live/1048_1.m3u8
 
 数字付费,#genre#
 江西陶瓷,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8#http://180.212.166.214:4022/udp/239.5.1.45:5000#http://www.weihuaz.icu:8888/udp/239.252.220.243:5140
-北方导视,http://120.76.248.139/live/bfgd/4200000187.m3u8
-法制天地,http://120.76.248.139/live/bfgd/4200000162.m3u8
+北方导视,http://120.76.248.139/live/bfgd/4200000187.m3u8#http://lu1.cc/c/time/php/bfgd.php?id=bfds
+法制天地,http://120.76.248.139/live/bfgd/4200000162.m3u8#http://lu1.cc/c/time/php/bfgd.php?id=fztd
 先锋影视,https://netlive.zhxwzx.com/live/ZHTV-1.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8#http://120.76.248.139/live/bfgd/4200000160.m3u8
+中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8#http://120.76.248.139/live/bfgd/4200000160.m3u8#http://lu1.cc/c/time/php/bfgd.php?id=zgtq
 书画频道,http://211.103.180.178:8233/live_hls/hdmi.m3u8
 绿色林都,https://liveplaysr.dbw.cn:443/lsdream/6i4bn74/2000/live.m3u8
-中华特产,http://218.86.143.87:9527/udp/238.255.3.106:5999#http://183.215.116.134:6610/180000001001/00000001000000000050000000448845/main.m3u8?IASHttpSessionId=OTT&#http://120.76.248.139/live/bfgd/4200000158.m3u8
-环球旅游,http://183.215.116.134:6610/180000001001/00000001000000000064000000308870/main.m3u8?IASHttpSessionId=OTT&#http://120.76.248.139/live/bfgd/4200000147.m3u8
+中华特产,http://218.86.143.87:9527/udp/238.255.3.106:5999#http://183.215.116.134:6610/180000001001/00000001000000000050000000448845/main.m3u8?IASHttpSessionId=OTT&#http://120.76.248.139/live/bfgd/4200000158.m3u8#http://lu1.cc/c/time/php/bfgd.php?id=zhtc
+环球旅游,http://183.215.116.134:6610/180000001001/00000001000000000064000000308870/main.m3u8?IASHttpSessionId=OTT&#http://120.76.248.139/live/bfgd/4200000147.m3u8#http://lu1.cc/c/time/php/bfgd.php?id=hqly
 人物频道,http://110.157.220.240:8088/udp/238.125.5.109:5140
 中华美食,http://106.116.2.146:8890/udp/239.254.201.189:7171#http://180.212.166.214:4022/udp/239.5.1.53:5000
 百姓健康,https://play-hsbj.vzan.com:443/2146882248/645899275683339739/live.m3u8
-证券服务,http://120.76.248.139/live/bfgd/4200000601.m3u8
+证券服务,http://120.76.248.139/live/bfgd/4200000601.m3u8#http://lu1.cc/c/time/php/bfgd.php?id=zqfw
 
 网络频道,#genre#
 不息传播,http://allinone.netsite.cc/bilibili/24290456
