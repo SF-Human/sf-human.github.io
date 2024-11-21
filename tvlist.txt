@@ -27,6 +27,7 @@ G导视,http://1b6467f415.iok.la:9931/tsfile/live/1048_1.m3u8
 中国国际教育2,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 中国国际教育3,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 中国国际教育4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+中国国际少儿,https://livesec.mudu.tv:443/watch/bk8coj.m3u8
 全国党员教育,https://12371wbndali.v.myalicdn.com:443/12371wbnd/dangyuanwang_2hd.m3u8
 中学生,http://60.255.240.247:8090/live/zxs_4000.m3u8#http://gmxw.7766.org:808/hls/24/index.m3u8
 昆明教育,http://ynxsj.7766.org:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -40,6 +41,7 @@ G导视,http://1b6467f415.iok.la:9931/tsfile/live/1048_1.m3u8
 云南导视,https://www.ynbit.com:1937/cyds-mlyn/livestream/chunklist_w1032454991.m3u8
 郑州铁路,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
 淮北矿业,http://xcblive.hbcoal.com/3/sd/live.m3u8
+淮河能源,http://play.hhnynews.com/huaihe/online.m3u8?auth_key=1720572937-0-0-ebd6c35757d0771723a94f37aa4b3b99
 宁安综合,https://rmplive.hljtv.com/live/ningan.m3u8
 依兰综合,https://rmplive.hljtv.com/live/yilan.m3u8
 人民铁道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
