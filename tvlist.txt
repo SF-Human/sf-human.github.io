@@ -53,14 +53,14 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 求索生活,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 漫游世界,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000017/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000017&livemode=1&stbId=3
 探索纪录,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000007&livemode=1&stbId=3
-中国交通,http://39.134.134.51/000000000001/PLTV/88888888/224/3221284618/index.m3u8?HlsProfileId
+中国交通,http://39.134.134.51/000000000001/PLTV/88888888/224/3221284618/index.m3u8?HlsProfileId=
 游戏风云,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8
 乐游频道,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
 江西陶瓷,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8#http://180.212.166.214:4022/udp/239.5.1.45:5000#http://www.weihuaz.icu:8888/udp/239.252.220.243:5140
 北方导视,http://120.76.248.139/live/bfgd/4200000187.m3u8#http://lu1.cc/c/time/php/bfgd.php?id=bfds
-法制天地,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000014/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000014&livemode=1&stbId=3#http://120.76.248.139/live/bfgd/4200000162.m3u8#http://lu1.cc/c/time/php/bfgd.php?id=fztd
+法治天地,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000014/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000014&livemode=1&stbId=3#http://120.76.248.139/live/bfgd/4200000162.m3u8#http://lu1.cc/c/time/php/bfgd.php?id=fztd
 先锋影视,https://netlive.zhxwzx.com/live/ZHTV-1.m3u8
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv#http://120.76.248.139/live/bfgd/4200000636.m3u8
 imode时尚频道,http://player.juyun.tv:80/camera/137932133.m3u8
 中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8#http://120.76.248.139/live/bfgd/4200000160.m3u8#http://lu1.cc/c/time/php/bfgd.php?id=zgtq
 书画频道,http://211.103.180.178:8233/live_hls/hdmi.m3u8
@@ -76,3 +76,4 @@ imode时尚频道,http://player.juyun.tv:80/camera/137932133.m3u8
 网络频道,#genre#
 不息传播,http://allinone.netsite.cc/bilibili/24290456
 Carrot TV,http://vdsbkup-tcloud-pull.hydun.com/live/CarrotTV.m3u8
+神兵卡通,
