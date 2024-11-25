@@ -11,9 +11,9 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 湖南金鹰纪实,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
 浙江之江纪录,https://ali-vl.cztv.com/channels/lantian/channel012/360p.m3u8
 南京文旅纪录,http://live.nbs.cn/channels/njtv/wljl/nbs24.m3u8
+苏州4K,https://tylive.kan0512.com:443/norecord/csztv4k_fhd.m3u8
 
 珠三角频道,#genre#
-G导视,http://1b6467f415.iok.la:9931/tsfile/live/1048_1.m3u8
 惠州综合,http://b.ds2.hztvmg.com/AppName/StreamName.m3u8
 惠州公共,http://113.76.151.23:4022/udp/239.77.1.233:5146
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
@@ -37,7 +37,6 @@ G导视,http://1b6467f415.iok.la:9931/tsfile/live/1048_1.m3u8
 
 地方频道,#genre#
 浙江民生休闲,https://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
-安徽导视,https://livehls1.appcoo.com/liveshopping/949E0A98C9D0C311/6D925141BC1F8C28/index.m3u8
 云南导视,https://www.ynbit.com:1937/cyds-mlyn/livestream/chunklist_w1032454991.m3u8
 郑州铁路,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
 淮北矿业,http://xcblive.hbcoal.com/3/sd/live.m3u8
