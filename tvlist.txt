@@ -16,12 +16,12 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 苏州4K,https://tylive.kan0512.com:443/norecord/csztv4k_fhd.m3u8
 
 动漫频道,#genre#
+流星卡通频道,https://vdsbkup-tcloud-pull.hydun.com/live/SFhuman.m3u8
 中国国际少儿,https://livesec.mudu.tv/watch/bk8coj.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-流星卡通,https://vdsbkup-tcloud-pull.hydun.com/live/SFhuman.m3u8
-广东嘉佳卡通,http://39.134.136.161:6610/000000001000/7851974109718180595/index.m3u8?stbId=10&livemode=1&IASHttpSessionId=OTT2135920241221085622053424&channel-id=bestzb&Contentid=7851974109718180595
-湖南金鹰卡通,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/JYKTMPP360.m3u8
 神兵卡通,https://vdsbkup-tcloud-pull.hydun.com/live/DMG.m3u8
+广东嘉佳卡通,http://39.134.136.161:6610/000000001000/6000000003000025508/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000003000025508
+湖南金鹰卡通,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/JYKTMPP360.m3u8
 北京卡酷少儿,http://39.134.136.161:6610/000000001000/7851974109718180595/index.m3u8?stbId=10&livemode=1&IASHttpSessionId=OTT2135920241221085622053424&channel-id=bestzb&Contentid=7851974109718180595
 江苏优漫卡通,http://39.134.136.161:6610/000000001000/5574405527570022182/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=5574405527570022182
 上海炫动卡通,http://39.134.136.161:6610/000000001000/5000000005000031641/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000005000031641#http://39.134.136.161:6610/000000001000/5101217554085087042/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=5101217554085087042
