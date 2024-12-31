@@ -1,12 +1,9 @@
 舟行直播,#genre#
 舟行纪实,https://vdsbkup-tcloud-pull.hydun.com/live/SFhuman.m3u8
 
-央视频道,#genre#
-CCTV-9纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV-14少儿,http://39.134.136.161:6610/000000001000/5000000010000023358/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000023358
-CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-
 纪录频道,#genre#
+CCTV-9纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 北京纪实科教8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京纪实科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 湖南金鹰纪实,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/JYJSMPP360.m3u8#http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
@@ -15,10 +12,10 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 苏州4K,https://tylive.kan0512.com:443/norecord/csztv4k_fhd.m3u8
 
 动漫频道,#genre#
-流星卡通频道,https://vdsbkup-tcloud-pull.hydun.com/live/SFhuman.m3u8
+CCTV-14少儿,http://39.134.136.161:6610/000000001000/5000000010000023358/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000023358
 中国国际少儿,https://livesec.mudu.tv/watch/bk8coj.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-神兵卡通,https://vdsbkup-tcloud-pull.hydun.com/live/DMG.m3u8
+流星卡通频道,https://vdsbkup-tcloud-pull.hydun.com/live/SFhuman.m3u8
 广东嘉佳卡通,http://39.134.136.161:6610/000000001000/6000000003000025508/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000003000025508
 湖南金鹰卡通,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/JYKTMPP360.m3u8
 北京卡酷少儿,http://39.134.136.161:6610/000000001000/7851974109718180595/index.m3u8?stbId=10&livemode=1&IASHttpSessionId=OTT2135920241221085622053424&channel-id=bestzb&Contentid=7851974109718180595
