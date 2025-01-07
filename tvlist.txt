@@ -29,14 +29,15 @@ CCTV-14少儿,http://39.134.136.161:6610/000000001000/5000000010000023358/index.
 南京少儿,https://live.nbs.cn:443/channels/njtv/sepd/nbs23.m3u8
 武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
 
-财经频道,#genre#
+经济频道,#genre#
 CCTV-2财经,http://39.134.64.179:6610/PLTV/88888888/224/3221225588/index.m3u8?
+广东经济科教,https://pili-live-hls.kingsmedia.cn/metoo-live/c40c8d3679704d729f3254ca2b98abfe.m3u8
+浙江经济生活,https://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
+湖南经视,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/HNJSMPP360.m3u8
 第一财经,http://223.166.234.9:7777/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0#http://39.134.136.161:6610/000000001000/2000000002000000004/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000004
 东方财经,http://39.134.136.161:6610/000000001000/5000000007000010003/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010003
 财富天下,http://39.134.136.161:6610/000000001000/5000000011000031208/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031208
 家庭理财,http://39.134.136.161:6610/000000001000/2000000002000000064/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000064
-浙江经济生活,https://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
-湖南经视,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/HNJSMPP360.m3u8
 证券服务,http://120.76.248.139/live/bfgd/4200000601.m3u8#http://lu1.cc/c/time/php/bfgd.php?id=zqfw
 点掌财经,https://volcanopull.aniu.tv/live/aniu2/index.m3u8
 中经电视,https://livepgc.chinamcache.com/pgc/ece75f76eaabce9f18d91588a90096cd.m3u8?auth_key=1688087053-0-0-23cbf908cc7d7529b5f3a0d862bbf503
