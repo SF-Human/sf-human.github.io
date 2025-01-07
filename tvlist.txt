@@ -29,16 +29,28 @@ CCTV-14少儿,http://39.134.136.161:6610/000000001000/5000000010000023358/index.
 南京少儿,https://live.nbs.cn:443/channels/njtv/sepd/nbs23.m3u8
 武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
 
+财经频道,#genre#
+CCTV-2财经,http://39.134.64.179:6610/PLTV/88888888/224/3221225588/index.m3u8?
+第一财经,http://223.166.234.9:7777/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0#http://39.134.136.161:6610/000000001000/2000000002000000004/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000004
+东方财经,http://39.134.136.161:6610/000000001000/5000000007000010003/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010003
+财富天下,http://39.134.136.161:6610/000000001000/5000000011000031208/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031208
+家庭理财,http://39.134.136.161:6610/000000001000/2000000002000000064/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000064
+浙江经济生活,https://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
+湖南经视,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/HNJSMPP360.m3u8
+证券服务,http://120.76.248.139/live/bfgd/4200000601.m3u8#http://lu1.cc/c/time/php/bfgd.php?id=zqfw
+点掌财经,https://volcanopull.aniu.tv/live/aniu2/index.m3u8
+中经电视,https://livepgc.chinamcache.com/pgc/ece75f76eaabce9f18d91588a90096cd.m3u8?auth_key=1688087053-0-0-23cbf908cc7d7529b5f3a0d862bbf503
+每经AI电视,https://swiftplay.hxkjmedia.com/tv/spbW.m3u8
+
 珠三角频道,#genre#
 惠州综合,http://b.ds2.hztvmg.com/AppName/StreamName.m3u8
 惠州公共,http://113.76.151.23:4022/udp/239.77.1.233:5146
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-深圳移动,http://113.76.151.23:4022/udp/239.77.1.175:5146
-深圳众创TV,http://zhfw-t.szlg.com:8080/live/television2.m3u8#http://113.76.151.23:4022/udp/239.77.1.247:5146
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 
 教育频道,#genre#
+CCTV-10科教,http://39.134.65.243:80/PLTV/88888888/224/3221225677/1.m3u8
 中国国际教育1,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 中国国际教育2,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 中国国际教育3,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
@@ -85,7 +97,6 @@ imode时尚频道,http://player.juyun.tv:80/camera/137932133.m3u8
 中华美食,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000052/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000052&livemode=1&stbId=3
 #http://106.116.2.146:8890/udp/239.254.201.189:7171#http://180.212.166.214:4022/udp/239.5.1.53:5000
 百姓健康,https://play-hsbj.vzan.com:443/2146882248/645899275683339739/live.m3u8
-证券服务,http://120.76.248.139/live/bfgd/4200000601.m3u8#http://lu1.cc/c/time/php/bfgd.php?id=zqfw
 
 网络频道,#genre#
 不息传播,https://livesec.mudu.tv/watch/xp866g.m3u8
@@ -94,7 +105,3 @@ VDS1,https://vdsbkup-tcloud-pull.hydun.com/live/vdschannel1.m3u8
 火毅综合,https://pull-live.hydun.com/live/hychg.m3u8
 白V频道,https://vdsbkup-tcloud-pull.hydun.com/live/baivchannel.m3u8
 Carrot TV,http://vdsbkup-tcloud-pull.hydun.com/live/CarrotTV.m3u8
-
-即将下线,#genre#
-上海纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-长春汽车,https://p2bj.vzan.com:443/slowlive/978419341085239014/live.m3u8
