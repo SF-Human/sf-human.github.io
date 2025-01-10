@@ -83,6 +83,7 @@ CGTN-纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 中国国际教育4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 中国国际少儿,https://livesec.mudu.tv/watch/bk8coj.m3u8
 浙江国际,https://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8
+湖南国际,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/HNGJMPP360.m3u8
 
 地方频道,#genre#
 云南导视,https://www.ynbit.com:1937/cyds-mlyn/livestream/chunklist_w1032454991.m3u8
@@ -118,6 +119,10 @@ imode时尚频道,http://player.juyun.tv:80/camera/137932133.m3u8
 中华美食,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000052/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000052&livemode=1&stbId=3
 #http://106.116.2.146:8890/udp/239.254.201.189:7171#http://180.212.166.214:4022/udp/239.5.1.53:5000
 百姓健康,https://play-hsbj.vzan.com:443/2146882248/645899275683339739/live.m3u8
+茶频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/CPDMPP360.m3u8
+快乐垂钓,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/KLCDMPP360.m3u8
+先锋乒羽,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/XFPYMPP360.m3u8
+
 
 网络频道,#genre#
 不息传播,https://livesec.mudu.tv/watch/xp866g.m3u8
