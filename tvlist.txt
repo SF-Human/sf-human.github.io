@@ -1,9 +1,23 @@
 舟行直播,#genre#
 舟行纪实,https://vdsbkup-tcloud-pull.hydun.com/live/ZhouXing.m3u8
 
+团长推荐,#genre#
+惠州综合,http://b.ds2.hztvmg.com/AppName/StreamName.m3u8
+惠州公共,http://113.76.151.23:4022/udp/239.77.1.233:5146
+深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+河源公共,https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+上海东方卫视,http://39.134.136.161:6610/000000001000/5000000010000032246/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000032246
+
+新闻频道,#genre#
+CCTV-1综合,http://39.134.64.179:6610/PLTV/88888888/224/3221226514/index.m3u8?
+CCTV-13新闻,http://39.134.136.161:6610/000000001000/5000000005000001827/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000005000001827
+浙江新闻,https://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
+浙江民生休闲,https://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
+上海新闻综合,http://39.134.136.161:6610/000000001000/5000000011000031110/index.m3u8?stbId=10&livemode=1&IASHttpSessionId=OTT2132520250110101853150088&channel-id=bestzb&Contentid=5000000011000031110
+
 纪录频道,#genre#
 CCTV-9纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 北京纪实科教8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京纪实科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 湖南金鹰纪实,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/JYJSMPP360.m3u8#http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
@@ -13,7 +27,6 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 
 动漫频道,#genre#
 CCTV-14少儿,http://39.134.136.161:6610/000000001000/5000000010000023358/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000023358
-中国国际少儿,https://livesec.mudu.tv/watch/bk8coj.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 流星卡通频道,https://vdsbkup-tcloud-pull.hydun.com/live/SFhuman.m3u8
 广东嘉佳卡通,http://39.134.136.161:6610/000000001000/6000000003000025508/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000003000025508
@@ -43,19 +56,8 @@ CCTV-2财经,http://39.134.64.179:6610/PLTV/88888888/224/3221225588/index.m3u8?
 中经电视,https://livepgc.chinamcache.com/pgc/ece75f76eaabce9f18d91588a90096cd.m3u8?auth_key=1688087053-0-0-23cbf908cc7d7529b5f3a0d862bbf503
 每经AI电视,https://swiftplay.hxkjmedia.com/tv/spbW.m3u8
 
-珠三角频道,#genre#
-惠州综合,http://b.ds2.hztvmg.com/AppName/StreamName.m3u8
-惠州公共,http://113.76.151.23:4022/udp/239.77.1.233:5146
-深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-河源公共,https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-
 教育频道,#genre#
 CCTV-10科教,http://39.134.65.243:80/PLTV/88888888/224/3221225677/1.m3u8
-中国国际教育1,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-中国国际教育2,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-中国国际教育3,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-中国国际教育4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 全国党员教育,https://12371wbndali.v.myalicdn.com:443/12371wbnd/dangyuanwang_2hd.m3u8
 中学生,http://60.255.240.247:8090/live/zxs_4000.m3u8#http://gmxw.7766.org:808/hls/24/index.m3u8
 昆明教育,http://ynxsj.7766.org:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -63,8 +65,22 @@ CCTV-10科教,http://39.134.65.243:80/PLTV/88888888/224/3221225677/1.m3u8
 武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
 金色学堂,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
 
+国际频道,#genre#
+CCTV-4中文国际,http://ottrrs.hl.chinamobile.com:80/PLTV/88888888/224/3221226007/index.m3u8
+CGTN-英语,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+CGTN-俄语,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+CGTN-法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+CGTN-西班牙语,https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+CGTN-阿拉伯语,https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+CGTN-纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+中国国际教育1,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+中国国际教育2,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+中国国际教育3,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+中国国际教育4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+中国国际少儿,https://livesec.mudu.tv/watch/bk8coj.m3u8
+浙江国际,https://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8
+
 地方频道,#genre#
-浙江民生休闲,https://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
 云南导视,https://www.ynbit.com:1937/cyds-mlyn/livestream/chunklist_w1032454991.m3u8
 郑州铁路,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
 淮北矿业,http://xcblive.hbcoal.com/3/sd/live.m3u8
