@@ -1,11 +1,23 @@
-舟行直播,#genre#
-舟行纪实,https://vdsbkup-tcloud-pull.hydun.com/live/ZhouXing.m3u8
+最近更新：25/01/21,#genre#
+CCTV-1综合,http://39.134.64.179:6610/PLTV/88888888/224/3221226514/index.m3u8?#https://epg.pw/stream/00ea10452b568a8e587ebece8311785afe7f33c41437de0a68839e6392d45dfc.m3u8
+舟行纪实,https://play.livescope.hydun.com/live/ZhouXing.m3u8
 
 团长推荐,#genre#
 惠州综合,http://b.ds2.hztvmg.com/AppName/StreamName.m3u8
 惠州公共,http://113.76.151.23:4022/udp/239.77.1.233:5146
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+
+LiveScope平台精选,#genre#
+不息传播,https://livesec.mudu.tv/watch/xp866g.m3u8
+TV768,https://play.livescope.hydun.com/live/SevenSixEight.m3u8
+VDS1,https://play.livescope.hydun.com/live/vdschannel1.m3u8
+火毅综合,https://pull-live.hydun.com/live/hychg.m3u8
+白V频道,https://play.livescope.hydun.com/live/baivchannel.m3u8
+Carrot TV,http://play.livescope.hydun.com/live/CarrotTV.m3u8
+伊犁新闻网,https://play.livescope.hydun.com/live/YNMG.m3u8
+陈宏艺频道,https://play.livescope.hydun.com/live/CHY.m3u8
+Anzs频道,https://play.livescope.hydun.com/live/Anzs1Channel.m3u8
 
 卫视频道,#genre#
 上海东方卫视,http://39.134.136.161:6610/000000001000/5000000010000032246/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000032246
@@ -15,7 +27,6 @@
 浙江卫视,https://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 
 新闻频道,#genre#
-CCTV-1综合,http://39.134.64.179:6610/PLTV/88888888/224/3221226514/index.m3u8?#https://epg.pw/stream/00ea10452b568a8e587ebece8311785afe7f33c41437de0a68839e6392d45dfc.m3u8
 CCTV-13新闻,http://39.134.136.161:6610/000000001000/5000000005000001827/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000005000001827
 浙江新闻,https://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
 浙江民生休闲,https://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
@@ -35,14 +46,14 @@ CCTV-9纪录,http://39.134.136.161:6610/000000001000/5000000010000018384/index.m
 动漫频道,#genre#
 CCTV-14少儿,http://39.134.136.161:6610/000000001000/5000000010000023358/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000023358
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-流星卡通频道,https://vdsbkup-tcloud-pull.hydun.com/live/SFhuman.m3u8
+流星卡通频道,https://play.livescope.hydun.com/live/SFhuman.m3u8
 广东嘉佳卡通,http://39.134.136.161:6610/000000001000/6000000003000025508/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000003000025508
 湖南金鹰卡通,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/JYKTMPP360.m3u8
 北京卡酷少儿,http://39.134.136.161:6610/000000001000/7851974109718180595/index.m3u8?stbId=10&livemode=1&IASHttpSessionId=OTT2135920241221085622053424&channel-id=bestzb&Contentid=7851974109718180595
 江苏优漫卡通,http://39.134.136.161:6610/000000001000/5574405527570022182/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=5574405527570022182
 上海炫动卡通,http://39.134.136.161:6610/000000001000/5000000005000031641/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000005000031641#http://39.134.136.161:6610/000000001000/5101217554085087042/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=5101217554085087042
 新动漫,http://113.236.19.117:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=0&authid=0
-神兵卡通,https://vdsbkup-tcloud-pull.hydun.com/live/DMG.m3u8
+神兵卡通,https://play.livescope.hydun.com/live/DMG.m3u8
 动漫秀场,http://39.134.136.161:6610/000000001000/2000000002000000009/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000009
 浙江少儿,https://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
 福州少儿,http://live.zohi.tv:80/video/s10001-fztv-4/index.m3u8
@@ -134,16 +145,6 @@ imode时尚频道,http://player.juyun.tv:80/camera/137932133.m3u8
 凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 凤凰香港,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-
-网络频道,#genre#
-不息传播,https://livesec.mudu.tv/watch/xp866g.m3u8
-TV768,https://vdsbkup-tcloud-pull.hydun.com/live/SevenSixEight.m3u8
-VDS1,https://vdsbkup-tcloud-pull.hydun.com/live/vdschannel1.m3u8
-火毅综合,https://pull-live.hydun.com/live/hychg.m3u8
-白V频道,https://vdsbkup-tcloud-pull.hydun.com/live/baivchannel.m3u8
-Carrot TV,http://vdsbkup-tcloud-pull.hydun.com/live/CarrotTV.m3u8
-伊犁新闻网,https://vdsbkup-tcloud-pull.hydun.com/live/YNMG.m3u8
-陈宏艺频道,https://vdsbkup-tcloud-pull.hydun.com/live/CHY.m3u8
 
 广播专区,#genre#
 经济之声,https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
