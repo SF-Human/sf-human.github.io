@@ -146,6 +146,7 @@ Carrot TV,http://vdsbkup-tcloud-pull.hydun.com/live/CarrotTV.m3u8
 陈宏艺频道,https://vdsbkup-tcloud-pull.hydun.com/live/CHY.m3u8
 
 广播专区,#genre#
+经济之声,https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 一财广播,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 博罗电台,https://live.ximalaya.com/radio-first-page-app/live/2848/64.m3u8?transcode=ts
 
