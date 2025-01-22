@@ -149,7 +149,12 @@ imode时尚频道,http://player.juyun.tv:80/camera/137932133.m3u8
 广播专区,#genre#
 经济之声,https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 一财广播,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-博罗电台,https://live.ximalaya.com/radio-first-page-app/live/2848/64.m3u8?transcode=ts
+博罗1073,https://live.ximalaya.com/radio-first-page-app/live/2848/64.m3u8?transcode=ts
+惠州阳光100,http://b.dt100.hztvmg.com:80/AppName/StreamName.m3u8
+惠州988,http://b.dt988.hztvmg.com:80/AppName/StreamName.m3u8
+惠州907,http://b.dt.hztvmg.com:80/AppName/StreamName.m3u8
+
+
 
 暂停直播,#genre#
 余杭未来,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
