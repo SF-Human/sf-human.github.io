@@ -18,6 +18,8 @@ Carrot TV,http://play.livescope.hydun.com/live/CarrotTV.m3u8
 伊犁新闻网,https://play.livescope.hydun.com/live/YNMG.m3u8
 陈宏艺频道,https://play.livescope.hydun.com/live/CHY.m3u8
 Anzs频道,https://play.livescope.hydun.com/live/Anzs1Channel.m3u8
+N频道,https://play.livescope.hydun.com/live/channeln.m3u8
+Anmu频道,https://play.livescope.hydun.com/live/ANMULiveChannel.m3u8
 
 卫视频道,#genre#
 上海东方卫视,http://39.134.136.161:6610/000000001000/5000000010000032246/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000032246
