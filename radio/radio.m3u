@@ -3,7 +3,7 @@
 https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 #EXTINF:-1 tvg-name="一财广播" tvg-logo="https://sf-human.github.io/radio/yicai.png" group-title="广播专区",一财广播
 https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-#EXTINF:-1 tvg-name="博罗1073" tvg-logo="https://sf-human.github.io/radio/1073.png" group-title="广播专区",博罗1073
+#EXTINF:-1 tvg-name="博罗1073" tvg-logo="https://sf-human.github.io/radio/1073.jpg" group-title="广播专区",博罗1073
 https://live.ximalaya.com/radio-first-page-app/live/2848/64.m3u8?transcode=ts
 #EXTINF:-1 tvg-name="惠州阳光100" tvg-logo="https://sf-human.github.io/radio/100.png" group-title="广播专区",惠州阳光100
 http://b.dt100.hztvmg.com:80/AppName/StreamName.m3u8
