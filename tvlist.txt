@@ -147,6 +147,7 @@ imode时尚频道,http://player.juyun.tv:80/camera/137932133.m3u8
 凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 凤凰香港,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+KCTV,https://tv.nknews.org/tvhls/stream.m3u8
 
 广播专区,#genre#
 经济之声,https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
