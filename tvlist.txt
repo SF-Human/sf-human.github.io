@@ -9,13 +9,6 @@ CCTV-1综合,http://39.134.64.179:6610/PLTV/88888888/224/3221226514/index.m3u8?#
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 
-合作伙伴,#genre#
-LiveScope平台,https://play.livescope.hydun.com/live/LiveScope.m3u8
-TV768,https://play.livescope.hydun.com/live/SevenSixEight.m3u8
-Carrot TV,http://play.livescope.hydun.com/live/CarrotTV.m3u8
-Anzs频道,https://play.livescope.hydun.com/live/Anzs1Channel.m3u8
-神兵卡通,https://play.livescope.hydun.com/live/DMG.m3u8
-
 卫视频道,#genre#
 上海东方卫视,http://39.134.136.161:6610/000000001000/5000000010000032246/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000032246
 山东卫视,http://39.134.136.161:6610/000000001000/5000000010000027763/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000027763
