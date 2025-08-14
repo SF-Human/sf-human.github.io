@@ -7,7 +7,6 @@
 ## 交流中心
 
 QQ群：364111911（进群请仔细说明来意）
-Discord：[Superfish's Stupid Playground](http://discord.gg/vUDtvYZXXj)
 
 ## 找到我
 
