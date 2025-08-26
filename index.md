@@ -20,6 +20,4 @@ QQ群：364111911（进群请仔细说明来意）
 
 [Romhack Plaza @SF-Human](https://romhackplaza.org/user/sf-human/)
 
-[Youtube @SF-Human](https://www.youtube.com/@sf-human)
-
 友情链接：[TV768工作室](https://tv768.xyz) [不息传播](https://buxicim.github.io/) [神兵卡通](http://old.shenbingcartoon.com) [VDS](http://vds.pub) [FC图库](http://fcpic.nesbbs.com/) [Bootleg Games Central](http://bootleg.games) [ZMG之江纪录](https://zmtv.cztv.com/cmsh5-share/prod/cztv-tvLive/index.html?pageId=112) [第一财经](http://www.yicai.com/) [Satellaview](https://superfamicom.org/blog/) [个人推荐收藏夹](https://www.bilibili.com/medialist/detail/ml2431444428?type=1&spm_id_from=333.999.0.0) [个人推荐歌单](https://music.163.com/m/playlist?id=13440149472&creatorId=9223234747)
